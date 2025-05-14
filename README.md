@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Manny-gospodev
-- 👀 I’m interested in AI, human-cetred, spirituality
-- 🌱 I’m currently learning C#
+# 👋 Hi there, I’m Syuleyman Gospodev
 
+🎓 Final-year student in Business Informatics and Communications  
+💡 Passionate about data, programming, and ethical tech  
+📊 Working with SQL, Java, Excel, and Power BI  
+📌 Currently learning: Time Series, Regression, Web Apps  
+✨ I believe in tech that serves humanity
 
-<!---
-Manny-gospodev/Manny-gospodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Reach me at: [email@example.com]
+

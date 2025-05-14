@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Syuleyman Gospodev
+# 👋 Hi there, I’m Manny Gospodev
 
 🎓 Final-year student in Business Informatics and Communications  
 💡 Passionate about data, programming, and ethical tech  
